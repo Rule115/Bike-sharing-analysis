@@ -1,0 +1,5 @@
+matplotlib @ file:///D:/bld/matplotlib-suite_1667505124848/work
+matplotlib-inline==0.1.6v
+pandas @ file:///D:/bld/pandas_1669134777944/work
+streamlit==1.19.0
+seaborn==0.12.1
